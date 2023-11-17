@@ -1,0 +1,6 @@
+credentials.ini
+settings.ini
+venv/
+*.svg
+*.d2
+__pycache__/
