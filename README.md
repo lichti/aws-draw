@@ -15,7 +15,7 @@ Together, we can expand and refine this tool for the benefit of the AWS communit
 ## How to run?
 
 ```sh
-git glone git@github.com:lichti/aws-draw.git && cd aws-draw
+git clone git@github.com:lichti/aws-draw.git && cd aws-draw
 virtualenv venv
 source venv/bin/activate
 pip -r requirements.txt
